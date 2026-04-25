@@ -1,0 +1,7 @@
+name: astrbot_plugin_voxcpm2_tts
+display_name: VoxCPM2 TTS
+description: VoxCPM2 语音合成插件，支持 Voice Design / Voice Clone / Ultimate Clone / LoRA 微调，参数组合自动确定合成模式
+version: 1.0.0
+author: caiyi
+repo: "https://github.com/caiyi/astrbot_plugin_voxcpm2_tts"
+astrbot_version: ">=4.16,<5"
